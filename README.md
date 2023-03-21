@@ -1,2 +1,2 @@
 # PracticandoGIT
-Práctica 2 FS
+Este repositorio lo ha creado manmanher
